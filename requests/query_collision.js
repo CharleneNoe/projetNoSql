@@ -1,3 +1,4 @@
+// Hiérarchie des arrondissement selon la mortalité des cyclistes et piétons
 db.collision.aggregate([
     {$match:{"borough":{$ne:null}}},
     {$group:
