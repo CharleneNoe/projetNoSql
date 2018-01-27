@@ -4,6 +4,7 @@ repertoire DAO :
 - allDAO.py : script python pour les DAO des fichiers
 - loadData.py : script python qui charge et importe les données en base
 - manageData.py : script python qui réagence les données importées dans "data"
+- request.py : script python qui exécute les requêtes sur la base MongoDB
 
 repertoire requests : requêtes mongodb pour toutes les bases de données
 
